@@ -1,0 +1,8 @@
+.body{
+    Menghitung Luas & Keliling Lingkaran</h2>
+    <br>
+    <span>Masukan Jari-jari </span><input type="number" id="jari">
+    <button onclick="hitung()">Hitung</button>
+    <p id="luasHasil"></p>
+    <p id="kelilingHasil"></p>
+}
